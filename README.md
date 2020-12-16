@@ -49,5 +49,4 @@ This is an simple to use Whatsapp Bot written in Python with Selenium.
 Discord : enes#1234
 Steam : 7ke
 
-Feel free to create an Pull Request. I'm currently looking forward to add this little Script to an Server so it does automatic Actions for me.
-I wrote this Program because our Teacher wants us to send him a Message at 7:30 AM that we woke up due to Lock Down. Just wanna sleep.
+Feel free to create an Pull Request. I'm currently looking forward to add this little Script to an Server so it does automated Actions for me.
