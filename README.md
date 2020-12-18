@@ -49,4 +49,5 @@ This is an simple to use Whatsapp Bot written in Python with Selenium.
 Discord : enes#1234
 Steam : 7ke
 
-Feel free to create an Pull Request. I'm currently looking forward to add this little Script to an Server so it does automated Actions for me.
+Feel free to create an Pull Request. 
+I'm currently looking forward to add this little Script to an Server so it does automated Actions for me.
