@@ -1,8 +1,8 @@
-### Whatsapp Bot
+# Whatsapp Bot
 
 This is an simple to use Whatsapp Bot written in Python with Selenium.
 
-# Instructions
+## Instructions
 
 1) Download the Source Code
 
@@ -35,7 +35,7 @@ This is an simple to use Whatsapp Bot written in Python with Selenium.
    After every Answer hit Enter.
    Once you input the Time to send the Message the Program waits until the Time has come.
    
-# Common Errors and Fixes
+## Common Errors and Fixes
 
 1) Chrome Driver Version outdated!
    --> Navigate to the three dots at the top right corner of Google Chrome.
@@ -49,7 +49,7 @@ This is an simple to use Whatsapp Bot written in Python with Selenium.
    --> Uninstall your current Python Version and download it again.
        Don't forget to tick the " Add to Path " Box. Fixed.
        
-# Contact
+## Contact
 
 Discord : enes#1234
 Steam : 7ke
