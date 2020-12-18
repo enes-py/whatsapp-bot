@@ -20,11 +20,15 @@ This is an simple to use Whatsapp Bot written in Python with Selenium.
   
    You login into your Whatsapp Account with following steps:
    
-      4.1) Open Whatsapp on your Phone
-      4.2) Find the Whatsapp Settings
-      4.3) Locate to Whatsapp Web/Desktop
-      4.4) Click on " Scan QR-Code "
-      4.5) You scan the QR-Code on the given Website and you are logged in.
+   4.1) Open Whatsapp on your Phone
+   
+   4.2) Find the Whatsapp Settings
+   
+   4.3) Locate to Whatsapp Web/Desktop
+   
+   4.4) Click on " Scan QR-Code "
+   
+   4.5) You scan the QR-Code on the given Website and you are logged in.
       
 5) Now take a look at the opened whatsapp-bot.py Terminal
    It should ask you every needed Information.
@@ -41,6 +45,7 @@ This is an simple to use Whatsapp Bot written in Python with Selenium.
        If that's not your Chrome Version you download yours here: https://chromedriver.chromium.org/downloads
        
 2) Your pip is not recognized!
+
    --> Uninstall your current Python Version and download it again.
        Don't forget to tick the " Add to Path " Box. Your error should have been fixed.
        
