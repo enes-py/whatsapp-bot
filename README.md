@@ -1,4 +1,4 @@
-# Whatsapp Bot
+### Whatsapp Bot
 
 This is an simple to use Whatsapp Bot written in Python with Selenium.
 
@@ -47,7 +47,7 @@ This is an simple to use Whatsapp Bot written in Python with Selenium.
 2) Your pip is not recognized!
 
    --> Uninstall your current Python Version and download it again.
-       Don't forget to tick the " Add to Path " Box. Your error should have been fixed.
+       Don't forget to tick the " Add to Path " Box. Fixed.
        
 # Contact
 
