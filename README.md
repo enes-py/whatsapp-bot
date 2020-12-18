@@ -39,11 +39,11 @@ This is an simple to use Whatsapp Bot written in Python with Selenium.
 
 1) Chrome Driver Version outdated!
 
---> Navigate to the three dots at the top right corner of Google Chrome.
-    Select "Help" and hit "About Google Chrome".
-    Your current Chrome Version should be displayed there. It's either starting with 85 - 86 or 87
-    The Chrome Driver in the Code is Version 86.0.4240.22
-    If that's not your Chrome Version you download yours here: https://chromedriver.chromium.org/downloads
+   --> Navigate to the three dots at the top right corner of Google Chrome.
+       Select "Help" and hit "About Google Chrome".
+       Your current Chrome Version should be displayed there. It's either starting with 85 - 86 or 87
+       The Chrome Driver in the Code is Version 86.0.4240.22
+       If that's not your Chrome Version you download yours here: https://chromedriver.chromium.org/downloads
        
 2) Your pip is not recognized!
 
